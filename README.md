@@ -57,4 +57,5 @@ https://www.kaggle.com/datasets/unsdsn/world-happiness
 - `notebook.ipynb` – Notebook principal do projeto
 - `data/` – Arquivos CSV do dataset
 - `README.md`
-- `requirements.txt` (opcional)
+- `requirements.txt`
+
